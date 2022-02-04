@@ -1,0 +1,4 @@
+todo:
+remove demand and capabity. set to 0?
+add haucs data
+run on haucs data, get results
